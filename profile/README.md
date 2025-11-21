@@ -9,8 +9,7 @@ Visit the [GpuGrid documentation](https://docs.gpugrid.io/) site for a more comp
 Jobs (containers) can be run on GpuGrid using the [installable CLI](https://docs.gpugrid.io/cli), or installed via the [Go toolchain](https://docs.gpugrid.io/cligo). After setting up the necessary prerequisites, the CLI enables users to run jobs as follows:
 
 ``
-
-gpugrid run cowsay:v0.0.4 -i Message="moo"
+grid run cowsay:v0.0.4 -i Message="moo"
 ``
 
 The current list of modules can be found in the following repositories:
