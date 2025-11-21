@@ -1,2 +1,2 @@
-# .github-private
+# .github
 GpuGrid introduce
