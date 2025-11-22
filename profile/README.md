@@ -1,4 +1,4 @@
-# GpuGrid
+# Gpugrid
 
 GpuGrid enables users to easily run containerized AI workloads on a decentralized GPU network, where anyone can get paid by connecting compute nodes to the network and running container jobs. Users can easily run jobs such as Stable Diffusion XL and cutting-edge open source LLMs, supporting on-chain execution, CLI execution, and execution via [GpuGrid AI Studio](https://app.gpugrid.io) on the web.
 
